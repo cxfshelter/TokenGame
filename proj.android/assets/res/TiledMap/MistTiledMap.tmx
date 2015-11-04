@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="60" tileheight="60" nextobjectid="1">
+ <tileset firstgid="1" name="MistMapImg" tilewidth="60" tileheight="60">
+  <image source="MistMapImg.png" width="240" height="240"/>
+ </tileset>
+ <layer name="MistLayer" width="1" height="1">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NkYGAAAHm4+JkEAAAA
+  </data>
+ </layer>
+</map>
